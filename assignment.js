@@ -13,7 +13,7 @@ console.log("Your answer is =", newFeet);
  }
  
 var myNeed = woodCalculator(1, 1, 2);
-console.log("Your need", myNeed, "Cubic Feet wood");
+console.log("You need", myNeed, "Cubic Feet wood");
 
 //  brickCalculator
 function brickCalculator(floor) {
